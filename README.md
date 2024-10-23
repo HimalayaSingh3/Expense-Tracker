@@ -75,6 +75,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Thank you for checking out my Simple Expense Tracker! Happy budgeting!
 
----
 
-Feel free to customize any sections or add more details specific to your project!
